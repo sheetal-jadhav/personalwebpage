@@ -1,1 +1,1 @@
-# perosnla webiste for Sheetal Jadhav
+# personal website for Sheetal Jadhav
