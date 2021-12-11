@@ -73,7 +73,7 @@ body,html {
 #middle {
     width:100%;
     height:155vh;
-    background:linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0)),url("file:///Users/sheetal/Downloads/fimbo-master/1/lensball.jpeg") center center fixed;
+    background:linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0)),url("https://github.com/sheetal-jadhav/sheetaljadhav/blob/main/lensball.jpeg") center center fixed;
     background-size:100% auto;
     background-repeat:no-repeat;
     color:white;
