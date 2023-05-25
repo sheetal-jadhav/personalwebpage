@@ -3306,7 +3306,7 @@ footer {
     font-size: 14px;
     padding: 6.6rem 0 4.2rem;
     text-align: center;
-    color: rgba(255, 255, 255, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 
 footer a, footer a:visited {
@@ -3334,12 +3334,14 @@ footer a:hover, footer a:focus {
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
+    color: black;
 }
 
 .footer-social:after {
     content: "";
     display: table;
     clear: both;
+    color: black;
 }
 
 .footer-social li {
@@ -3348,34 +3350,41 @@ footer a:hover, footer a:focus {
     margin-right: .9rem;
     line-height: 3.9rem;
     vertical-align: middle;
+    color: black;
 }
 
 .footer-social li::after {
     content: "|";
-    color: rgba(255, 255, 255, 0.15);
+    color: rgba(0, 0, 0, 0.5);
     padding-left: .9rem;
+    color: black;
 }
 
 .footer-social li i {
     font-size: 1.7rem;
     line-height: 3rem;
     vertical-align: middle;
+    color: black;
 }
 
 .footer-social li span {
     margin-left: .6rem;
+    color: black;
 }
 
 .footer-social li a {
-    color: #FFFFFF;
+    color: #000000;
+
 }
 
 .footer-social li:last-child {
     margin-right: 0;
+    color: black;
 }
 
 .footer-social li:last-child::after {
     display: none;
+    color: black;
 }
 
 .footer-bottom {
@@ -3391,7 +3400,7 @@ footer a:hover, footer a:focus {
     content: "|";
     display: inline-block;
     padding: 0 1rem 0 1.2rem;
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(0, 0, 0, 0.1);
 }
 
 .footer-bottom .copyright span:last-child::after {
